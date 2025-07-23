@@ -45,7 +45,7 @@ Predict income classes (<=50K or >50K) using the **Adult Census Income Dataset**
 1. Clone the repo
 
 git clone  
-https://github.com/your-username/employee-salary-prediction.git cd employee-salary-prediction
+https://github.com/AbhiroopGhosh-007/Employee-Salary-Prediction-System.git cd Employee-Salary-Prediction-System
 
 2. Install dependencies
 
